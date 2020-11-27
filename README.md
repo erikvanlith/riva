@@ -1,2 +1,2 @@
 # riva
-BlueConic team riva
+Team Riva
