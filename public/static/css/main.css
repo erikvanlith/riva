@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+}
+
+body.mainBackground {
+  background-image: url("../images/fireworks-animation.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  overflow: hidden;
+}
+
+.mainContentWrapper {
+ /* background: white;*/
+  height: 200px;
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+  overflow: auto;
+
+}
+
+.content {
+  /*background: black;*/
+  color: white;
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Apple Chancery, cursive;
+  font-size: 100px;
+}
