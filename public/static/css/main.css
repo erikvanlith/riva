@@ -22,8 +22,7 @@ body.mainBackground {
   justify-content: center;
   align-items: center;
   resize: both;
-  overflow: auto;
-
+  overflow: hidden;
 }
 
 .content {
