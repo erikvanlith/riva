@@ -2,6 +2,10 @@ html {
   height: 100%;
 }
 
+.link {
+  color: white;
+}
+
 body.mainBackground {
   background-image: url("../images/fireworks-animation.gif");
   background-repeat: no-repeat;
@@ -23,6 +27,7 @@ body.mainBackground {
   align-items: center;
   resize: both;
   overflow: hidden;
+  flex-direction: column;
 }
 
 .content {
@@ -35,4 +40,8 @@ body.mainBackground {
   justify-content: center;
   font-family: Apple Chancery, cursive;
   font-size: 100px;
+}
+
+.contentSub {
+  color: black;
 }
