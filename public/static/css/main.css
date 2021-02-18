@@ -17,8 +17,6 @@ body.mainBackground {
 }
 
 .mainContentWrapper {
- /* background: white;*/
-  height: 200px;
   width: 60%;
   margin: auto;
   padding: 20px;
